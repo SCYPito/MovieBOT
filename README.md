@@ -1,5 +1,4 @@
 # MovieBOT
-</br>
 MovieBOT
 index.js建置好依序完成下列步驟
 • 新增config資料夾
